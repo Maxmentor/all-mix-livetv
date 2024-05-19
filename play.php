@@ -158,22 +158,17 @@ font-family: 'Quattrocento Sans', sans-serif;
 <body>
 <div id="loading" class="loading">
 <div class="loading-text">                                        
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][0]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][1]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][2]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][3]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][4]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][5]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][6]; ?></span>
-    <span style="color:#FF9966"><?php echo @$ROLEX['span'][7]; ?></span>
-    <span style="color:#FF0000"><?php echo @$ROLEX['span'][8]; ?></span>
-    <span style="color:#FF0000"><?php echo @$ROLEX['span'][9]; ?></span>
-    <span style="color:#FF0000"><?php echo @$ROLEX['span'][10]; ?></span>
-    <span style="color:#FF0000"><?php echo @$ROLEX['span'][11]; ?></span>
-    <span style="color:#FF0000"><?php echo @$ROLEX['span'][12]; ?></span>
-    <span style="color:#66CC66"><?php echo @$ROLEX['span'][13]; ?></span>
-    <span style="color:#66CC66"><?php echo @$ROLEX['span'][14]; ?></span>
-    <span style="color:#66CC66"><?php echo @$ROLEX['span'][15]; ?></span>
+    <span style="color:#FF9966">M</span>
+    <span style="color:#FF9966">A</span>
+    <span style="color:#FF9966">X</span>
+    <span style="color:#FF9966">-</span>
+    <span style="color:#FF9966">M</span>
+    <span style="color:#FF9966">E</span>
+    <span style="color:#FF9966">N</span>
+    <span style="color:#FF9966">T</span>
+    <span style="color:#FF0000">O</span>
+    <span style="color:#FF0000">R</span>
+  
 </div>
 </div>
 
